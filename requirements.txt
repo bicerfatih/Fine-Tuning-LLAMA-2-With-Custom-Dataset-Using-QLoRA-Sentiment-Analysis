@@ -1,0 +1,9 @@
+transformers
+torch
+pandas
+scikit-learn
+datasets
+trl
+peft
+python-dotenv
+tqdm
