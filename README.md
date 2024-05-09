@@ -1,5 +1,5 @@
 # Fine-Tuning-LLAMA-2-With-Custom-Dataset-Using-QLoRA-Sentiment-Analysis
-Fine Tuning LLAMA 2 on Custom Dataset Using QLoRA and Sentiment Analysis
+Fine Tuning LLAMA 2 on Custom Dataset Using QLoRA for Sentiment Analysis
 
 The project includes scripts and services for Fine-tuning LLMs on Custom Dataset such as data preparation, initializing the model, training a sentiment analysis model and making predictions. 
 
