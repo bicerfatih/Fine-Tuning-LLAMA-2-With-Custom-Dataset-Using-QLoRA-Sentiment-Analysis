@@ -5,7 +5,7 @@ The project includes scripts and services for Fine-tuning LLMs on Custom Dataset
 
 Fine-tuning basically means training a model on a specific task like Q&A or use cases. 
 
-I’m aiming to fine-tune a model to analyse financial data from company reports, specifically using QLoRa for sentiment classification. For this I must have a dataset that shows whether the outcomes are successful or not, or it should provide some other kind of labels.
+I’m aiming to fine-tune a model to analyse financial data from company reports, specifically using QLoRa for sentiment classification.
 
 ## Project Structure
 
