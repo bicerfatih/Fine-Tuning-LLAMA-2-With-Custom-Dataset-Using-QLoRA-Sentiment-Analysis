@@ -15,6 +15,7 @@ I’m aiming to fine-tune a model to analyse financial data from company reports
 - `main.py` - The main script that ties all components of the project together.
 - `prediction.py` - Script used to make predictions using the trained model.
 - `sentiment_analysis_part1.csv` - Sample dataset used for sentiment analysis.
+- `sentiment_analysis_part2.csv` - Sample dataset used for sentiment analysis.
 - `train.py` - Script for training the sentiment analysis model.
 
 ## Installation
